@@ -1,0 +1,3 @@
+Java final keyword is a non-access specifier that is used to restrict a class, variable, and method. ..
+ If we declare a method as final, then it cannot be overridden by any subclasses.
+ And, if we declare a class as final, we restrict the other classes to inherit or extend it.
